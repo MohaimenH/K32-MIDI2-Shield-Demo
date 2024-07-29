@@ -5,7 +5,7 @@
  * Generated linker script file for K32L2B31xxxxA
  * Created from library.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v11.10.0 [Build 3148] [2024-07-03] on Jul. 24, 2024, 9:57:24 a.m.
+ * MCUXpresso IDE v11.10.0 [Build 3148] [2024-07-03] on Jul. 29, 2024, 10:16:54 a.m.
  */
 
 GROUP (
