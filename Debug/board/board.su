@@ -1,0 +1,5 @@
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/CMSIS/core_cm0plus.h:779:22:__NVIC_DisableIRQ	16	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/CMSIS/core_cm0plus.h:832:22:__NVIC_ClearPendingIRQ	16	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_clock.h:470:20:CLOCK_SetLpuart0Clock	16	static
+../board/board.c:25:6:BOARD_InitDebugConsole	16	static
+../board/board.c:111:6:SystemInitHook	8	static

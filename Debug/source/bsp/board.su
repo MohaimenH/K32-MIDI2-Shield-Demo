@@ -1,0 +1,3 @@
+../source/bsp/board.c:88:18:_write	24	static
+../source/bsp/board.c:93:18:_read	32	static
+../source/bsp/board.c:111:5:board_getchar	16	static

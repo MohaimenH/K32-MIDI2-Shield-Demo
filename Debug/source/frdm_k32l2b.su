@@ -1,0 +1,16 @@
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/CMSIS/core_cm0plus.h:850:22:__NVIC_SetPriority	24	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/CMSIS/core_cm0plus.h:1058:26:SysTick_Config	16	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_clock.h:438:20:CLOCK_EnableClock	24	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_clock.h:470:20:CLOCK_SetLpuart0Clock	16	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_gpio.h:329:20:GPIO_PinWrite	24	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_gpio.h:411:24:GPIO_PinRead	16	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_port.h:356:20:PORT_SetPinConfig	32	static
+/Users/mohaimen/Documents/MCUXpressoIDE_11.10.0_3148/workspace/K32L2B31A_Project_MIDI2_Shield_Demo/drivers/fsl_port.h:459:20:PORT_SetPinMux	24	static
+../source/frdm_k32l2b.c:40:6:USB0_IRQHandler	8	static
+../source/frdm_k32l2b.c:45:6:board_init	32	static
+../source/frdm_k32l2b.c:107:6:board_led_write	16	static
+../source/frdm_k32l2b.c:112:10:board_button_read	8	static
+../source/frdm_k32l2b.c:117:5:board_uart_read	16	static
+../source/frdm_k32l2b.c:123:5:board_uart_write	16	static
+../source/frdm_k32l2b.c:131:6:SysTick_Handler	8	static
+../source/frdm_k32l2b.c:136:10:board_millis	8	static

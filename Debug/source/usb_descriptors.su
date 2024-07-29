@@ -1,0 +1,5 @@
+../source/usb_descriptors.c:74:17:tud_descriptor_device_cb	8	static
+../source/usb_descriptors.c:135:17:tud_descriptor_configuration_cb	16	static
+../source/usb_descriptors.c:147:16:tud_descriptor_device_qualifier_cb	8	static
+../source/usb_descriptors.c:162:17:tud_descriptor_string_cb	88	static
+../source/usb_descriptors.c:221:6:tud_ump_get_req_itf_cb	32	static
